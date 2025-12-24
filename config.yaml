@@ -10,7 +10,6 @@ artifacts:
   xgb_model_filename: "xgb_model.pkl"
   ann_model_filename: "ann_mlp_model.pkl"
 
-
 scaler:
   type: "StandardScaler"
 
