@@ -53,4 +53,4 @@ jobs:
         docker push ${{ secrets.ECR_REPO }}:latest
 
         echo "▶ Image pushed successfully"
-        
+      
